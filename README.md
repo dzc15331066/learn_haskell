@@ -1,1 +1,1 @@
-# learn_haskell
+# some notes in learning haskell
